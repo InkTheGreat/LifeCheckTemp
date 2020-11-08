@@ -1,0 +1,35 @@
+﻿@model User
+@{
+   //layout = null
+}
+
+<h2>User Details</h2>
+<table>
+   <tr>
+      <td><b>Username:</b></td>
+      <td> @Model.Uname</td>
+   </tr>
+   <tr>
+      <td><b>Title:</b></td>
+      <td> @Model.Tname</td>
+   </tr>
+   <tr>
+      <td><b>First Name:</b></td>
+      <td> @Model.Fname</td>
+   </tr>
+   <tr>
+      <td><b> Last Name:</b></td>
+      <td> @Model.Lname</td>
+   </tr>
+   <tr>
+      <td><b>Email:</b></td>
+      <td>@Model.Email</td>
+   </tr>
+</table>
+<br/>
+ <br />
+
+<br />
+  <br />
+<button action="@Url.Action("EditUser", "HomeController")"> Edit </button><br />
+<button> Delete  </button><br />

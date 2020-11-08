@@ -1,0 +1,47 @@
+﻿@{
+   ViewData["Title"] = "SignIn";
+}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+   <meta charset="utf-8">
+
+   <title>Log in </title>
+
+</head>
+
+<body>
+   <center style="background-color:Red;">
+      <p align="right">
+         <input type="button" value="home" action="@Url.Action("SignUp", "HomeController")" />
+         <a class="SignIn" asp-action="index">SignIn</a>
+         <a class="sign" asp-action="SignUp">SignUp</a>
+
+      </p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/LIFE_magazine_logo.svg" alt="life" width="200" height="200">
+
+      <img style=" border: 5px solid #40ff00 ;border-radius: 50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbQJiA1S9liXnNm1Yxpl93VPWRBzubS3XO1g&usqp=CAU" alt=" check" width="200" height="200">
+
+      <hr>
+   </center>
+   <center>
+      <label for="email"> Email:</label>
+      <input type="text" id="Email" placeholder="Username or Email">
+
+      <br>
+      <br>
+      <label for="password"> Password:</label>
+      <input type="password" id="password" placeholder="Password">
+      <br>
+      <br>
+      <button type="button">Enter</button>
+      <br>
+      <br>
+      <a href="">Forgot Password?</a>
+      <br>
+      <a class="Signup" asp-action="SignUp">SignUp</a>
+   </center>
+</body>
+
+</html>

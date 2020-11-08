@@ -1,0 +1,40 @@
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.exe
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.deps.json
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.runtimeconfig.json
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.runtimeconfig.dev.json
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.dll
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.pdb
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.Views.dll
+C:\Users\mista\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.Views.pdb
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.csprojAssemblyReference.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.AssemblyInfoInputs.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.AssemblyInfo.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.csproj.CoreCompileInputs.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorAssemblyInfo.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorAssemblyInfo.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.TagHelpers.input.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.TagHelpers.output.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorCoreGenerate.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorTargetAssemblyInfo.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorTargetAssemblyInfo.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.Views.pdb
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\staticwebassets\Project 8.StaticWebAssets.Manifest.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\staticwebassets\Project 8.StaticWebAssets.xml
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.dll
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.pdb
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.genruntimeconfig.cache
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.csproj.CopyComplete
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignIn.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignUp.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Account.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserDetails.cshtml.g.cs
+C:\Users\mista\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditUser.cshtml.g.cs

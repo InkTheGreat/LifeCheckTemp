@@ -1,0 +1,47 @@
+﻿@model Project_8.Models.User
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+   <meta charset="utf-8">
+
+   <title>Edit  </title>
+
+</head>
+
+<body>
+   <center style="background-color:Red;">
+      <p align="right">
+         <input type="button" value="home" action="@Url.Action("SignUp", "HomeController")" />
+         <a class="SignIn" asp-action="index">SignIn</a>
+         <a class="sign" asp-action="SignUp">SignUp</a>
+      </p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/LIFE_magazine_logo.svg" alt="life" width="200" height="200">
+
+      <img style=" border: 5px solid #40ff00 ;border-radius: 50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbQJiA1S9liXnNm1Yxpl93VPWRBzubS3XO1g&usqp=CAU" alt=" check" width="200" height="200">
+      <hr>
+   </center>
+   <center>
+      <form method="post">
+         <div asp-validation-summary="All">
+
+            FirstName:
+            <input asp-for="Fname" />
+            <br />
+            LastName:
+            <input asp-for="Lname" />
+            <br />
+            UserName:
+            <input asp-for="Uname" />
+            <br />
+            Title:
+            <input asp-for="Tname" />
+            <br />
+         </div>
+
+         <input type="submit" value="Update" />
+      </form>
+   </center>
+</body>
+
+</html>
